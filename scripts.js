@@ -1,3 +1,5 @@
 //there will be scripts for the page
-let a = 3;
-console.log(a.value);
+let a = "Hello world";
+console.log(a);
+console.log("This is git, baby");
+console.log("I said this is git, baby");
